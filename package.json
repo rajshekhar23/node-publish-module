@@ -1,0 +1,11 @@
+{
+  "name": "sample-demo",
+  "version": "1.0.0",
+  "description": "This is sample-demo to publish node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajshekhar <rajshekharbudharam2015@gmail.com> (www.sampledemo.com)",
+  "license": "ISC"
+}
